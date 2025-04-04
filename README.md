@@ -33,8 +33,9 @@ i made two readme files for no reason
 
 # issue 
 
--almost everything detected as canister
--Performance is down if the background is not black
+almost everything detected as canister.
+
+Performance is down if the background is not black.
 
 # classes
 
