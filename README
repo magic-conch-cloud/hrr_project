@@ -1,0 +1,25 @@
+i made virtual environment named myenv(no reason) if you don't want to do then just do
+pip install -r requirements.txt for making same environment setting
+if you know well then just see what is in there and choose what you need
+any question -> ask to me or ask to ai -> me or ai will answer
+
+i use dataset in kaggle(have github link)
+https://www.kaggle.com/datasets/parohod/warp-waste-recycling-plant-dataset
+https://github.com/airi-institute/warp
+
+i do (i could misspell so just see )
+
+very important to do in first thing
+bring all default file from github
+
+1st thing
+python -m venv myenv
+
+2nd thing
+.\myenv\Scripts\activate
+
+3rd thing
+pip install -r requirements.txt
+
+4th thing
+run main.py code
