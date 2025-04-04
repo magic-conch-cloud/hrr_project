@@ -1,4 +1,6 @@
+
 # hrr_project
+made by grok (https://grok.com/share/bGVnYWN5_5fe3e2f0-9829-4711-bd19-e8ffca285bb5)
 I made this for a school project. These files are used for domestic purposes and are actually meaningless.
 
 i made virtual environment named myenv(no reason) if you don't want to do then just do
@@ -28,3 +30,37 @@ pip install -r requirements.txt
 run main.py code
 
 i made two readme files for no reason
+
+# classes
+
+bottle-blue
+bottle-green
+bottle-dark
+bottle-milk
+bottle-transp
+bottle-multicolor
+bottle-yogurt
+bottle-oil
+cans
+juice-cardboard
+milk-cardboard
+detergent-color
+detergent-transparent
+detergent-box
+canister
+bottle-blue-full
+bottle-transp-full
+bottle-dark-full
+bottle-green-full
+bottle-multicolorv-full
+bottle-milk-full
+bottle-oil-full
+detergent-white
+bottle-blue5l
+bottle-blue5l-full
+glass-transp
+glass-dark
+glass-green
+
+
+#
