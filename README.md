@@ -1,6 +1,6 @@
 
 # hrr_project
-made by grok (https://grok.com/share/bGVnYWN5_5fe3e2f0-9829-4711-bd19-e8ffca285bb5)
+made by grok -> everything in that link -> (https://grok.com/share/bGVnYWN5_5fe3e2f0-9829-4711-bd19-e8ffca285bb5)
 I made this for a school project. These files are used for domestic purposes and are actually meaningless.
 
 i made virtual environment named myenv(no reason) if you don't want to do then just do
