@@ -26,3 +26,5 @@ pip install -r requirements.txt
 
 4th thing
 run main.py code
+
+i made two readme files for no reason
