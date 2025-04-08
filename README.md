@@ -1,6 +1,7 @@
 In 1-2 months this project will go from public to private.
 # hrr_project
 what is hrr? hrr is high school recycle robot 
+
 made by grok -> everything in that link -> (https://grok.com/share/bGVnYWN5_5fe3e2f0-9829-4711-bd19-e8ffca285bb5)
 I made this for a school project. These files are used for domestic purposes and are actually meaningless.
 
