@@ -104,6 +104,11 @@ I think this project is a fantastic chance to grow my robotics skills—learning
 
 i get no mentor no budget no high coding skill. I asked my teacher at school, but he refused without even looking, so I feel a little sad. So, if I have manus' help, I think the project will progress more smoothly.
 
+# Future plan
+https://manus.im/share/cffkZa0fIcnSjnIid694ee?replay=1
+i got no coding and thinking skill so i use manus for making something
+evert future plan in that link
+
 # issue 
 
 almost everything detected as canister.
